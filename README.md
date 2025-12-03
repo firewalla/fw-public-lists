@@ -7,10 +7,11 @@ This repo exists to provide:
 - **Transparency** around what's included
 - **Community contributions** to keep lists accurate and up-to-date
 - **A central place** for Firewalla users to share curated, useful datasets
+
 These lists are **not required** for Firewalla operation. They are strictly optional tools for users who want them.
 
 ## Current Lists
-- NSFW AI List
+- [NSFW AI List](https://github.com/firewalla/fw-public-lists/blob/main/nsfw-ai.txt)
 
 ## Contributing
 We welcome all community contributions! 
