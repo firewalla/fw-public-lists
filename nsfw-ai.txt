@@ -1,3 +1,8 @@
+# Title: Firewalla's NSFW AI Blocklist
+# Description: An adult-focused AI chatbot blocklist to keep children safe online.
+# Homepage: https://github.com/firewalla/fw-public-lists
+# License: https://github.com/firewalla/fw-public-lists/blob/main/LICENSE
+# 
 xotic.ai
 aiallure.com
 eroplay.ai
