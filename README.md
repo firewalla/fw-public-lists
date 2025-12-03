@@ -27,3 +27,4 @@ These lists are community-curated and may not be 100% complete or accurate.
 Use at your own discretion. Firewalla does not guarantee the behavior of third-party domains, nor does it mandate the use of these lists.
 
 ## License
+For more details, see the [LICENSE](https://github.com/firewalla/fw-public-lists/blob/main/LICENSE) file.
