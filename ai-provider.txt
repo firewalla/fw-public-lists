@@ -34,7 +34,7 @@ replit.com
 tabnine.com
 v0.dev
 
-! --- Writing & Productivity Chat ---
+# --- Writing & Productivity Chat ---
 anyword.com
 beautiful.ai
 chatbase.co
