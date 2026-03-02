@@ -91,4 +91,4 @@ xme.bio
 xotic.ai
 yodayo.com
 yollo.ai
-baidu.com
+*.baidu.com
