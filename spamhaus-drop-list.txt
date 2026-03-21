@@ -1,0 +1,7 @@
+# Title: Spamhaus DROP List
+# Description: The Spamhaus Don't Route Or Peer (DROP) list of hijacked or leased netblocks used by professional spam or cyber-crime operations.
+# Homepage: https://www.spamhaus.org/drop/
+# License: https://www.spamhaus.org/legal/terms-of-use/
+# Original Author: The Spamhaus Project
+
+@https://www.spamhaus.org/drop/drop.txt
