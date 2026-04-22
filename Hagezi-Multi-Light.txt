@@ -3,4 +3,4 @@
 # Homepage: https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#light
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Original Author: Hagezi
-@https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt
+@https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/light.txt
