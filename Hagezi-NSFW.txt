@@ -1,0 +1,6 @@
+# Title: HaGeZi's NSFW DNS Blocklist
+# Description: Blocks adult content.
+# Homepage: https://github.com/hagezi/dns-blocklists#nsfw
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Original Author: Hagezi
+@https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/nsfw.txt
