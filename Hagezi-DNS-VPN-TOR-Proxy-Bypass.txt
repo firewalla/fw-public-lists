@@ -1,0 +1,6 @@
+# Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
+# Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies.
+# Homepage: https://github.com/hagezi/dns-blocklists#bypass
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Original Author: Hagezi
+@https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/doh-vpn-proxy-bypass.txt
