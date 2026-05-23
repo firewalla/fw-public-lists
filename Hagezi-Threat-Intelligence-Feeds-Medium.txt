@@ -1,0 +1,6 @@
+# Title: HaGeZi's Threat Intelligence Feeds DNS Blocklist - medium version
+# Description: Increases security! Blocks Malware, Spam, Scam and Phishing.
+# Homepage: https://github.com/hagezi/dns-blocklists#tif
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Original Author: Hagezi
+@https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/tif.medium.txt
