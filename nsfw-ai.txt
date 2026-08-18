@@ -91,4 +91,3 @@
 *.xotic.ai
 *.yodayo.com
 *.yollo.ai
-*.baidu.com
