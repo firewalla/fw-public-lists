@@ -1,0 +1,6 @@
+# Title: HaGeZi's DynDNS - guards against dynamic DNS abuse!
+# Description: Blocks dynamic DNS services that get abused for phishing campaigns and other shady activity.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Original Author: Hagezi
+@https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/dyndns-onlydomains.txt
