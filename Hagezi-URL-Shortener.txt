@@ -1,0 +1,6 @@
+# Title: HaGeZi's URL Shortener - blocks link shorteners!
+# Description: This list blocks every known URL/link shortener out there.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Original Author: Hagezi
+@https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/urlshortener.txt
