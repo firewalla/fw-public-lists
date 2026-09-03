@@ -1,0 +1,32 @@
+# Title: Synology Allow Target List
+# Description: Allows known good domains for Synology updates and common services
+# Homepage: https://github.com/gofisk/firewalla
+# License: https://github.com/gofisk/firewalla/blob/main/LICENSE
+# Original Author: Scott Fisk
+
+global.download.synology.com
+global.synologydownload.com
+update7.synology.com
+autoupdate7.synology.com
+payment.synology.com
+account.synology.com
+download.synology.com
+www.synology.com
+pkgautoupdate7.synology.com
+pkgupdate7.synology.com
+pkgautoupdate.synologyupdate.com
+synoconf.synology.com
+synoconfkms.synology.com
+ddns.synology.com
+sns.synology.com
+notification.synology.com
+dataupdate.synology.com
+identity.synology.com
+database.clamav.net
+myds.synology.com
+docker.io
+registry-1.docker.io
+registry.hub.docker.com
+update.synology.com
+global.geo.synology.com
+letsencrypt.org
