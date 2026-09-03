@@ -1,0 +1,11 @@
+# Title: Michael Bierman's Wi-Fi Calling
+# Description: Use this list to block or route wifi calling
+# Description: Targets only the IKEv2/IPSec tunnel endpoints (UDP 500/4500).
+# Homepage: https://github.com/firewalla/fw-public-lists
+# Version: 1.0
+# License: https://github.com/firewalla/fw-public-lists/blob/main/LICENSE
+*.att.net,udp:500,udp:4500
+wo.vzwwo.com,udp:500,udp:4500
+*.t-Mobile.com,udp:500,udp:4500
+*.t-Mobile.com:5061
+epdg.epc.gci.google.com,udp:500,udp:4500
