@@ -65,6 +65,7 @@
 *.nectar.ai
 *.nomi.ai
 *.nsfwcharacterai.com
+*.ouraidream.com
 *.ourdream.ai
 *.pephop.ai
 *.pirr.ai
